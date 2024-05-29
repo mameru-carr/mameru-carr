@@ -1,3 +1,11 @@
-<h1 align="center">Ahoy There!</h1>
-<h2 align="center">I am Mameru Carr</h2>
-<h3 align="center">Software Craftsman, Artist, Writer</h3>
+<img align="center" src="./github-header-image.png" />
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mameru-carr&" alt="mameru-carr" /></p>
+
+<p><img align="left" src="github-metrics.svg"></p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mameru-carr&show_icons=true&locale=en&layout=compact" alt="mameru-carr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mameru-carr&show_icons=true&locale=en" alt="mameru-carr" /></p>
+
