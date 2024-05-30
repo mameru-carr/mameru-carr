@@ -4,9 +4,9 @@
 
 <p align="center"><img align="center" src="./metrics.plugin.isocalendar.fullyear.svg"/></p>
 
-<p><img align="center" src="github-metrics.svg"></p>
+<p align="center"><img align="center" src="github-metrics.svg"></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mameru-carr&show_icons=true&locale=en&layout=compact" alt="mameru-carr" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mameru-carr&show_icons=true&locale=en&layout=compact" alt="mameru-carr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mameru-carr&show_icons=true&locale=en" alt="mameru-carr" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mameru-carr&show_icons=true&locale=en" alt="mameru-carr" /></p>
 
