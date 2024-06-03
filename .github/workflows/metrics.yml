@@ -34,6 +34,10 @@ jobs:
           plugin_isocalendar_duration: full-year
   WakaTime:
     runs-on: ubuntu-latest
+    environment:
+      name: production
+    permissions:
+      contents: write
     steps:
     - uses: lowlighter/metrics@latest
       with:
